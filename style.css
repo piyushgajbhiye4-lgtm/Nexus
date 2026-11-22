@@ -71,7 +71,8 @@ img {
   width: 48px;
   height: 48px;
   object-fit: contain;
-  filter: hue-rotate(28deg) saturate(1.25);
+  filter: none;
+  mix-blend-mode: normal;
 }
 
 .brand-copy {
